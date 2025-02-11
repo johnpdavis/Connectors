@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		{
+			"name": "username",
+			"type": "text",
+			"prompt": "Username",
+			"placeholder": "dominikmayerart"
+		}
+	]
+}

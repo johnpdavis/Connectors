@@ -1,0 +1,12 @@
+{
+	"id": "com.mtgpics",
+	"display_name": "MtgPics",
+	"service_name": "MtgPics",
+	"default_color": "gold",
+	"icon": "https://www.mtgpics.com/favicon.png",
+	"site": "https://www.mtgpics.com",
+	"needs_verification": false,
+	"verify_variables": false,
+	"provides_attachments": true,
+	"check_interval": 300
+}

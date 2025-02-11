@@ -1,0 +1,11 @@
+{
+	"sites": [
+		"artstation.com"
+	],
+	"url": [
+		{
+			"extract": "/artstation.com/([^/]+)/",
+			"variable": "username"
+		}
+	]
+}

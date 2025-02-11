@@ -1,0 +1,12 @@
+{
+	"id": "com.artstation.user",
+	"display_name": "Recent artworks",
+	"service_name": "Artstation",
+	"default_color": "blue",
+	"icon": "https://www.artstation.com/assets/favicon-c10fd14662b70e922acd8ef17489a45a5f033c8d447a728f29a72e249310f4e2.ico",
+	"site": "https://www.artstation.com",
+	"needs_verification": true,
+	"verify_variables": true,
+	"provides_attachments": true,
+	"check_interval": 300
+}
